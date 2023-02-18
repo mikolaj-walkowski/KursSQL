@@ -1,4 +1,4 @@
-# Lekcja 1
+# Lekcja_1
 
 ## Grupy poleceń jężyka:
 
